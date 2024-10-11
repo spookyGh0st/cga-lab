@@ -1,0 +1,6 @@
+src/cmake-build-debug
+src/cmake-build-releas
+src/.idea
+tex/build
+tex/.vscode
+tex/.idea
